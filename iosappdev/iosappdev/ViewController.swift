@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    // 2020-10-14: Changed by A
+    override func viewWillAppear(_ animated: Bool) {
+        
+    }
 
 }
 
